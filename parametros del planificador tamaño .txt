@@ -1,0 +1,3 @@
+aunque ya estará el planificador programado en muchos sitios, debemos programarlo nosotros
+parametros del planificador: tamaño y densidad del mapa
+probar con distintos tipos de escenarios (variando tamaño y densidad del mapa (al menos 2 variaciones))
